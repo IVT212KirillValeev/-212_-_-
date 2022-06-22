@@ -1,0 +1,16 @@
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\bin\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.exe
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\bin\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.deps.json
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\bin\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.runtimeconfig.json
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\bin\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.runtimeconfig.dev.json
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\bin\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.dll
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\bin\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.pdb
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.csproj.AssemblyReference.cache
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.Form1.resources
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.csproj.GenerateResource.cache
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.AssemblyInfoInputs.cache
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.AssemblyInfo.cs
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.csproj.CoreCompileInputs.cache
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.dll
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.pdb
+C:\Users\kirva\OneDrive\Документы\GitHub\IVT212_Valeev_Kochetkov\Calc_IVT212_Val_Koch\obj\Debug\netcoreapp3.1\Calc_IVT212_Val_Koch.genruntimeconfig.cache

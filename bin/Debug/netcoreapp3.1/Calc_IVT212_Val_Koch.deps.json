@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calc_IVT212_Val_Koch/1.0.0": {
+        "runtime": {
+          "Calc_IVT212_Val_Koch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calc_IVT212_Val_Koch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
