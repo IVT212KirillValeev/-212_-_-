@@ -17,5 +17,19 @@ namespace Calc_IVT212_Val_Koch
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            ААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
