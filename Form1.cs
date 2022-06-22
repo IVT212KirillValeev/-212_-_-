@@ -24,7 +24,7 @@ namespace Calc_IVT212_Val_Koch
 
         private void label1_Click(object sender, EventArgs e)
         {
-            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB1
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
